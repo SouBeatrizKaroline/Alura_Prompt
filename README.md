@@ -16,6 +16,10 @@
 
 - [🔗 Documentação Comandos do Windows](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands)
 
+- [🔗 Baixar cmder](https://cmder.app/)
+
+- [🔗 Baixar Java](https://www.oracle.com/java/technologies/downloads/)
+
 ## 🛠 Cursos
 
 - Linux Onboarding: usando a CLI de uma forma rápida e prática
