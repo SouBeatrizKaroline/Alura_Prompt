@@ -20,6 +20,8 @@
 
 - [🔗 Baixar Java](https://www.oracle.com/java/technologies/downloads/)
 
+- [🔗 Site Chocolatey](https://chocolatey.org/)
+
 ## 🛠 Cursos
 
 - Linux Onboarding: usando a CLI de uma forma rápida e prática
