@@ -12,6 +12,8 @@
 
 - [🔗 Documentação Shell Script](https://mange.ifrn.edu.br/shell-script-wikipedia/#:~:text=Shell%20script%20%C3%A9%20o%20nome,necessita%20basicamente%20do%20interpretador%20Shell.)
 
+- [🔗 Documentação Power Shell](https://learn.microsoft.com/pt-br/powershell/)
+
 - [🔗 Documentação Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
 - [🔗 Documentação Comandos do Windows](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands)
@@ -39,6 +41,8 @@
 - [🔗 Baixar Gedit Editor](https://wiki.gnome.org/Apps/Gedit)
 
 - [🔗 Baixar Python](https://www.python.org/downloads/)
+
+- [🔗 Baixar Winget](https://learn.microsoft.com/pt-br/windows/package-manager/winget/)
 
 ## 🛠 Cursos
 
