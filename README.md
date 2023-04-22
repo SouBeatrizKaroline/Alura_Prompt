@@ -32,6 +32,8 @@
 
 - Windows Prompt: Trabalhando na linha de comando
 
+- Windows Prompt: utilizando o CMD
+
 ## 💙 Contato
 
 ebeatrizkcs@gmail.com
