@@ -22,6 +22,10 @@
 
 - [🔗 Site Chocolatey](https://chocolatey.org/)
 
+- [🔗 Documentação Chocolatey](https://docs.chocolatey.org/en-us/)
+- 
+- [🔗 Documentação OneGet](https://github.com/OneGet/oneget/wiki/cmdlets)
+
 ## 🛠 Cursos
 
 - Linux Onboarding: usando a CLI de uma forma rápida e prática
