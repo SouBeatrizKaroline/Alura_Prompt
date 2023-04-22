@@ -26,6 +26,12 @@
 - 
 - [🔗 Documentação OneGet](https://github.com/OneGet/oneget/wiki/cmdlets)
 
+- [🔗 Baixar Nono Editor](https://www.nano-editor.org/)
+
+- [🔗 Baixar Vi Editor](https://ex-vi.sourceforge.net/)
+
+- [🔗 Baixar Gedit Editor](https://wiki.gnome.org/Apps/Gedit)
+
 ## 🛠 Cursos
 
 - Linux Onboarding: usando a CLI de uma forma rápida e prática
