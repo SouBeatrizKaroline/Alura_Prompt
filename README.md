@@ -14,6 +14,8 @@
 
 - [🔗 Documentação Bash](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
 
+- [🔗 Documentação Comandos do Windows](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands)
+
 ## 🛠 Cursos
 
 - Linux Onboarding: usando a CLI de uma forma rápida e prática
@@ -27,6 +29,8 @@
 - Shell Scripting parte 1: scripts de automação de tarefas
 
 - Shell Scripting parte 2: fazendo monitoramento, agendando tarefas e backup
+
+- Windows Prompt: Trabalhando na linha de comando
 
 ## 💙 Contato
 
