@@ -16,6 +16,12 @@
 
 - [🔗 Documentação Comandos do Windows](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/windows-commands)
 
+> [🔗 Documentação prompt](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/prompt)
+
+> [🔗 Documentação cmd](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
+
+> [🔗 Documentação setx](https://learn.microsoft.com/pt-br/windows-server/administration/windows-commands/setx)
+
 - [🔗 Baixar cmder](https://cmder.app/)
 
 - [🔗 Baixar Java](https://www.oracle.com/java/technologies/downloads/)
@@ -23,7 +29,7 @@
 - [🔗 Site Chocolatey](https://chocolatey.org/)
 
 - [🔗 Documentação Chocolatey](https://docs.chocolatey.org/en-us/)
-- 
+
 - [🔗 Documentação OneGet](https://github.com/OneGet/oneget/wiki/cmdlets)
 
 - [🔗 Baixar Nono Editor](https://www.nano-editor.org/)
@@ -31,6 +37,8 @@
 - [🔗 Baixar Vi Editor](https://ex-vi.sourceforge.net/)
 
 - [🔗 Baixar Gedit Editor](https://wiki.gnome.org/Apps/Gedit)
+
+- [🔗 Baixar Python](https://www.python.org/downloads/)
 
 ## 🛠 Cursos
 
